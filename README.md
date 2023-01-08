@@ -1,2 +1,1 @@
 # ReactQuickApp
-# ReactQuickApp test
